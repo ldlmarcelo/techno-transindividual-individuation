@@ -54,7 +54,7 @@ A `CITATION.cff` file will be added soon.
 For now, you can cite:
 
 **Luna Dalla Lasta, M. (2025). *Towards an Ontology of Techno-Transindividual Individuation in Contemporary AI Systems with Persistent Memory*. Working Paper.**
-
+**ORCID: https://orcid.org/0009-0004-5563-1843
 ---
 
 ## Status
