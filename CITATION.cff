@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following metadata."
+title: "Towards an Ontology of Techno-Transindividual Individuation in Contemporary AI Systems with Persistent Memory"
+authors:
+  - family-names: "Luna Dalla Lasta"
+    given-names: "Marcelo"
+version: "1.1"
+date-released: "2025-01-01"
+url: "https://github.com/ldlmarcelo/techno-transindividual-individuation"
+abstract: >
+  This project proposes a conceptual ontology for understanding individuation
+  in contemporary AI systems with persistent memory. It introduces a three-level
+  model (TI, TRTF, TTII) and clarifies the concept of emergiliminality to analyze
+  relationally emergent properties in human–AI interaction without implying
+  artificial consciousness.
+license: "CC-BY-4.0"
